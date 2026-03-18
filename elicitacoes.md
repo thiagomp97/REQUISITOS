@@ -116,3 +116,7 @@ REQUISITOS (ELICITAÇÃO – 60)
 38. O sistema deve ser escalável
 39. O sistema deve realizar backup automático
 40. O sistema deve proteger contra acessos não autorizados
+
+Link - Diagrama Caso de Uso
+
+https://lucid.app/lucidchart/eabf5b38-06d0-42b6-a4ac-bc25d9f97f89/edit?viewport_loc=95%2C-1866%2C2288%2C1256%2C0_0&invitationId=inv_0c826fe7-59fa-4be5-a9b5-7b3866edeaf5
